@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/McGarry-A/movieCLI#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "mongodb": "^4.1.3",
     "yargs": "^17.2.1"
   }
